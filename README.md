@@ -10,8 +10,11 @@ and a forecasting module with Deeplearning4j (90-day predictions, under 12% erro
 
 ## Tech stack
 **Back-end:** Java 17/21, Spring Boot, Spring Security, JWT, OAuth 2.0, Hibernate/JPA.
+
 **Front-end:** Angular, React, TypeScript, Chart.js.
+
 **Databases:** MySQL, PostgreSQL, Oracle.
+
 **Tools:** Git, Docker, Postman, JUnit, n8n.
 
 ## Featured projects
