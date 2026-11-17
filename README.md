@@ -1,12 +1,11 @@
 # Hi, I'm Zineb Nafil 👋
 
-**Java / Spring Boot Developer** · Software Engineer in Computer Science (EMSI Casablanca, 2026)
-📍 Casablanca, Morocco · 🟢 Available immediately for a junior position (permanent contract)
+Full-stack developer based in Casablanca, Morocco. I build backend systems with **Java and Spring Boot**, and the interfaces that sit on top of them with **Angular and React**.
 
 ## What I do
 I build secure back-end APIs with Spring Boot and full-stack apps with Angular and React.
 During my final-year project I built a BI platform with an ETL pipeline (15 daily KPIs in under 3 min)
-and a forecasting module with Deeplearning4j (90-day predictions, under 12% error).
+and a forecasting module with Deeplearning4j (90-day predictions, under 12% error) that help clients make decision using operatinal data
 
 ## Tech stack
 **Back-end:** Java 17/21, Spring Boot, Spring Cloud, Spring Security,JWT, OAuth 2.0, 2FA, Hibernate/JPA, API REST, Maven
