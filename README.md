@@ -9,10 +9,10 @@ During my final-year project I built a BI platform with an ETL pipeline (15 dail
 and a forecasting module with Deeplearning4j (90-day predictions, under 12% error).
 
 ## Tech stack
-**Back-end:** Java 17/21, Spring Boot, Spring Security, JWT, OAuth 2.0, Hibernate/JPA
-**Front-end:** Angular, React, TypeScript, Chart.js
-**Databases:** MySQL, PostgreSQL, Oracle
-**Tools:** Git, Docker, Postman, JUnit, n8n
+**Back-end:** Java 17/21, Spring Boot, Spring Security, JWT, OAuth 2.0, Hibernate/JPA.
+**Front-end:** Angular, React, TypeScript, Chart.js.
+**Databases:** MySQL, PostgreSQL, Oracle.
+**Tools:** Git, Docker, Postman, JUnit, n8n.
 
 ## Featured projects
 - 🛒 [**ShopWave**](https://github.com/raidenshogen/[ShopWave]) – [one line: marketplace with cart, orders, JWT auth]
