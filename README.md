@@ -16,9 +16,9 @@ and a forecasting module with Deeplearning4j (90-day predictions, under 12% erro
 
 ## Featured projects
 - 🛒 [**ShopWave**](https://github.com/raidenshogen/[ShopWave]) – [one line: marketplace with cart, orders, JWT auth]
-- 📊 [**SmartQueueAnalyser**](https://github.com/raidenshogen/[repo]) – BI dashboard with ETL and ML forecasting
+- 📊 [**SmartQueueAnalyser**](https://github.com/raidenshogen/[SmartQueueAnalyser]) – BI dashboard with ETL and ML forecasting
 - 🏥 [**SmartClinic**](https://github.com/raidenshogen/[SmartClinic]) – [one line]
-- ♻️ [**Recycling-Tracker**](https://github.com/raidenshogen/Recycling-Tracker) – [one line]
+- ♻️ [**Recycling-Tracker**](https://github.com/raidenshogen/Recycling-Tracker) – Eco-points app that rewards households for recycling; admin dashboard tracks weight, time and points per household with a downloadable report
 
 ## Contact
 📧 znafil177@gmail.com · [LinkedIn](https://linkedin.com/in/zinebnafil-4b0036284) · [Portfolio](https://zineb-nafil-portfolio.vercel.app)
