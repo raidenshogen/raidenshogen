@@ -19,7 +19,7 @@ and a forecasting module with Deeplearning4j (90-day predictions, under 12% erro
 ## Featured projects
 - 🛒 [**ShopWave**](https://github.com/raidenshogen/ShopWave) – [one line: marketplace with cart, orders, JWT auth]
 - 📊 [**SmartQueueAnalyser**](https://github.com/raidenshogen/SmartQueueAnalyser) – BI dashboard with ETL and ML forecasting
-- 🏥 [**SmartClinic**](https://github.com/raidenshogen/[SmartClinic]) – Clinic management system: patients, doctors, appointments, e-mail notifications, prescriptions, and an admin dashboard with statistics per service
+- 🏥 [**SmartClinic**](https://github.com/raidenshogen/Smart-Clinic) – Clinic management system: patients, doctors, appointments, e-mail notifications, prescriptions, and an admin dashboard with statistics per service
 - ♻️ [**Recycling-Tracker**](https://github.com/raidenshogen/Recycling-Tracker) – Eco-points app that rewards households for recycling; admin dashboard tracks weight, time and points per household with a downloadable report
 - 💳 [**abonnement_Saas**](https://github.com/raidenshogen/abonnement_Saas) – Recurring billing platform for cloud services: Spring Boot microservices, Kafka events, automated billing batch
 
