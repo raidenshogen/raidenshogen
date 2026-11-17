@@ -24,4 +24,4 @@ and a forecasting module with Deeplearning4j (90-day predictions, under 12% erro
 - ♻️ [**Recycling-Tracker**](https://github.com/raidenshogen/Recycling-Tracker) – Eco-points app that rewards households for recycling; admin dashboard tracks weight, time and points per household with a downloadable report
 
 ## Contact
-📧 znafil177@gmail.com · [LinkedIn](https://linkedin.com/in/zineb-nafil-4b0036284) · [Portfolio]([https://portfolio-2025-2026-seven.vercel.app])
+📧 znafil177@gmail.com · [LinkedIn](https://linkedin.com/in/zineb-nafil-4b0036284) · [Portfolio](https://portfolio-2025-2026-seven.vercel.app)
