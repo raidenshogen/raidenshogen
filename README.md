@@ -15,7 +15,7 @@ and a forecasting module with Deeplearning4j (90-day predictions, under 12% erro
 
 **Databases:** MariaDB, MySQL, PostgreSQL, Oracle, SQL Server,SQL Tuning
 
-**Tools:** Git, Docker, Postman, JUnit, n8n, SonarCube.
+**Tools:** Git, Docker, Postman, JUnit, n8n, SonarCube, Github, Gitlab, Jira.
 
 ## Featured projects
 - 🛒 [**ShopWave**](https://github.com/raidenshogen/[ShopWave]) – [one line: marketplace with cart, orders, JWT auth]
